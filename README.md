@@ -1,4 +1,4 @@
-# home_automation_dashboard-v1.0.3
+
 # home_automation_dashboard
 ### Table of contents
 - [System requirements](#system-requirements)
